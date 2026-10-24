@@ -1,0 +1,13 @@
+{
+  "id": "simple-youtube-player",
+  "title": "Simple YouTube Player",
+  "description": "Синхронизированный плеер YouTube",
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "main.js"
+  ]
+}
